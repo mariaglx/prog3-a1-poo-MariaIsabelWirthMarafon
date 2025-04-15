@@ -21,8 +21,8 @@ O sistema permite cadastrar, logar e deslogar usuários, utilizando sessões e c
 ## 🗃️ Estrutura do Projeto
 <pre>prog3-a1/
 ├── classes/
-│   └── Autenticador.php
-│   └── Sessao.php
+│   ├── Autenticador.php
+│   ├── Sessao.php
 │   └── Usuario.php
 ├── index.php/
 ├── cadastro.php/
@@ -30,5 +30,5 @@ O sistema permite cadastrar, logar e deslogar usuários, utilizando sessões e c
 ├── login.php/
 ├── processa_login.php/
 ├── dashboard.php/
-├── logout.php/</pre>
+└── logout.php/</pre>
 
