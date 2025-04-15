@@ -8,7 +8,7 @@
 
 ## 📝 Descrição
 
-Sistema de autenticação de usuários desenvolvido em PHP com orientação a objetos.
+Sistema de autenticação de usuários desenvolvido em PHP com orientação a objetos.  
 O sistema permite cadastrar, logar e deslogar usuários, utilizando sessões e cookies, com base em um array que simula um banco de dados.
 
 ## ▶️ Como rodar o projeto
@@ -18,4 +18,17 @@ O sistema permite cadastrar, logar e deslogar usuários, utilizando sessões e c
 3. Inicie o Apache no XAMPP.
 4. Acesse pelo navegador:
 
+## 🗃️ Estrutura do Projeto
+<pre>prog3-a1/
+├── classes/
+│   └── Autenticador.php
+│   └── Sessao.php
+│   └── Usuario.php
+└── index.php/
+└── cadastro.php/
+└── processa_cadastro.php/
+└── login.php/
+└── processa_login.php/
+└── dashboard.php/
+└── logout.php/</pre>
 
