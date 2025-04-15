@@ -3,7 +3,6 @@
 **Aluna:** Maria Isabel Wirth Marafon
 **Curso:** Ciência da Computação | 5ª fase
 **Campus:** São Miguel do Oeste | UNOESC
--- 
 
 ## 📝 Descrição
 
