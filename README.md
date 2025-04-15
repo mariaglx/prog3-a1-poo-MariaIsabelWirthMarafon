@@ -1,8 +1,8 @@
 # Sistema de Registro de Usuários com PHP Orientado a Objetos
 
-**Aluna:** Maria Isabel Wirth Marafon
-**Curso:** Ciência da Computação | 5ª fase
-**Campus:** São Miguel do Oeste - UNOESC
+**Aluna: Maria Isabel Wirth Marafon
+Curso: Ciência da Computação | 5ª fase
+Campus: São Miguel do Oeste - UNOESC**
 ---
 
 ## 📝 Descrição
