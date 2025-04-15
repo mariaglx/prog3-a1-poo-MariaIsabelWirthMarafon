@@ -4,6 +4,8 @@
 **Curso:** Ciência da Computação | 5ª fase  
 **Campus:** São Miguel do Oeste | UNOESC  
 
+---
+
 ## 📝 Descrição
 
 Sistema de autenticação de usuários desenvolvido em PHP com orientação a objetos.
