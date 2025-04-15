@@ -24,11 +24,11 @@ O sistema permite cadastrar, logar e deslogar usuários, utilizando sessões e c
 │   └── Autenticador.php
 │   └── Sessao.php
 │   └── Usuario.php
-└── index.php/
-└── cadastro.php/
-└── processa_cadastro.php/
-└── login.php/
-└── processa_login.php/
-└── dashboard.php/
-└── logout.php/</pre>
+├── index.php/
+├── cadastro.php/
+├── processa_cadastro.php/
+├── login.php/
+├── processa_login.php/
+├── dashboard.php/
+├── logout.php/</pre>
 
